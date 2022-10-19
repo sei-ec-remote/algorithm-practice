@@ -12,11 +12,13 @@ Enhance your problem sovling ability and prepare for technical interviews with a
 * For each algorithm that you attempt, record the name of the algorithm, your final attempt of the algorithm, and whether or not your attempt passed the test in `attempt.js`
 
 
-## List of Algorithms
+## Practice Problems
 
 ### Requirements
 * Start at the top and work your way down
 * Follow the instructions in each repo to fork, clone, attempt the algo, and run the tests.
+
+### The Algorithms
 
 * Does Include
 * Palindrome
